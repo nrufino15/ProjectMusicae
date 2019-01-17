@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProjectMusicae</string>
+    <string name="app_name_uppercase">MUSICAE</string>
+    <string name="main_title">BIENVENIDO</string>
+    <string name="main_subtitle">Nos alegra verte por aquí</string>
+    <string name="log_in">INICIAR SESIÓN</string>
+    <string name="sing_in">REGISTRATE</string>
+    <string name="next_activity">Continuar sin registrarse</string>
+</resources>
