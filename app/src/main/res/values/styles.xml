@@ -9,12 +9,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="MainView" parent="Theme.AppCompat.DayNight.NoActionBar">
-        <item name="android:colorDarkPrimary">@color/colorDarkPrimary</item>
-        <item name="android:colorDarkSecondary">@color/colorDarkSecondary</item>
-        <item name="android:colorGrayPrimary">@color/colorGrayPrimary</item>
-        <item name="android:colorGraySecondary">@color/colorGraySecondary</item>
-        <item name="android:colorWhite">@color/colorWhite</item>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
 
 </resources>
