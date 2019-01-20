@@ -5,7 +5,9 @@
     <color name="colorAccent">#D81B60</color>
     <color name="colorDarkPrimary">#202225</color>
     <color name="colorDarkSecondary">#2F3136</color>
+    <!-- Color of CardView and Text -->
     <color name="colorGrayPrimary">#54444C</color>
     <color name="colorGraySecondary">#AEAFB2</color>
+    <!-- Text Color White -->
     <color name="colorWhite">#FFFFFF</color>
 </resources>
