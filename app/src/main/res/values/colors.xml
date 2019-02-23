@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
-    <color name="colorDarkPrimary">#202225</color>
-    <color name="colorDarkSecondary">#2F3136</color>
+    <!-- Main colors -->
+    <color name="colorAccent">#CC6C54</color>
+    <color name="colorPrimary">#202225</color>
+    <color name="colorPrimaryDark">#141517</color>
+    <color name="colorSecondary">#2F3136</color>
     <!-- Color of CardView and Text -->
-    <color name="colorGrayPrimary">#54444C</color>
-    <color name="colorGraySecondary">#AEAFB2</color>
+    <color name="colorTertiary">#54444C</color>
     <!-- Text Color White -->
     <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#AEAFB2</color>
 </resources>

@@ -1,17 +1,20 @@
 <resources>
-    <string name="app_name">ProjectMusicae</string>
-    <string name="app_name_uppercase">MUSICAE</string>
-    <string name="main_title">BIENVENIDO</string>
+    <string name="app_name">Musicae</string>
+    <string name="main_tittle">MUSICAE</string>
+    <string name="main_welcome">BIENVENIDO</string>
     <string name="main_subtitle">Nos alegra verte por aquí</string>
     <string name="log_in">INICIAR SESIÓN</string>
     <string name="sing_in">REGISTRATE</string>
     <string name="next_activity">Continuar sin registrarse</string>
     <string name="title_activity_tabbed">TabbedActivity</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
-    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_1">MÚSICA</string>
+    <string name="tab_text_2">FAVORITOS</string>
+    <string name="tab_text_3">PLAYLISTS</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- Descriptions -->
+    <string name="logo_description">Logo de la aplicacion</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
