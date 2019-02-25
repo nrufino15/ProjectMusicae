@@ -6,11 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".MusicListFragment">
 
-    <android.support.constraint.ConstraintLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        >
-
-    </android.support.constraint.ConstraintLayout>
+    <!-- TODO: Update blank fragment layout -->
+    <ListView
+        android:id="@+id/music_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
 
 </FrameLayout>
